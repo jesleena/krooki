@@ -1,0 +1,44 @@
+name: krooki
+description: A new Flutter project.
+
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.5 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - images/welcomescreen/bg1.png
+    - images/welcomescreen/Logo_krooqi@2x.png
+    - images/chooselang/bg2.png
+    - images/chooselang/united-kingdom.png
+    - images/chooselang/Layer 2.png
+    - images/onboardscreen/bg3.png
+    - images/onboardscreen/3dots.png
+    - images/onboardscreen/left-arrow.png
+    - images/onboardscreen/bg4.png
+    - images/onboardscreen/bg5.png
+    - images/signin/bg6.png
